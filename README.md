@@ -1,0 +1,3 @@
+- Multiprocess program that interprets various users commands entered via command-line
+- Launches processes and redirects input/output when necessary
+- Designed in Shell and C
